@@ -1,0 +1,8 @@
+name: NVbyInfraGREEN22
+author: InfraGREEN22
+version: 0.1
+main: me.infragreen22.secondplugin.Main
+description: Моя попытка написать собственный плагин на ночное зрение
+commands:
+  nv:
+    description: Включить/выключить ночное зрение
